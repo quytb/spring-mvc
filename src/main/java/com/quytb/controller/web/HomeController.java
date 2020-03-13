@@ -12,4 +12,10 @@ public class HomeController {
         ModelAndView mav = new ModelAndView("web/home");
         return mav;
     }
+
+    @RequestMapping(value = "/dang-nhap", method = RequestMethod.POST)
+    public ModelAndView loginPage() {
+        ModelAndView mav = new ModelAndView("login");
+        return mav;
+    }
 }
