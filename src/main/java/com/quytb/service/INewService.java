@@ -1,9 +1,9 @@
-package com.quytb.dao;
+package com.quytb.service;
 
 import com.quytb.model.NewModel;
 
 import java.util.List;
 
-public interface INewDAO extends GenericDAO<NewModel> {
+public interface INewService {
     List<NewModel> findAll();
 }
