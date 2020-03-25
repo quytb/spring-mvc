@@ -13,4 +13,7 @@ public class Constant {
     public static final String SPRING = "Thu 5";
     public static final String SUMMER = "Thu 5";
 
+
+    public static final String WINTER = "Thu 5";
+
 }
