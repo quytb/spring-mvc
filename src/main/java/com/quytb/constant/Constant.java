@@ -11,6 +11,5 @@ public class Constant {
     public static final String WED = "Thu 4";
     public static final String THUR = "Thu 5";
     public static final String SPRING = "Thu 5";
-
-
+    public static final String SUMMER = "Thu 5";
 }
