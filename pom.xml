@@ -19,7 +19,7 @@
         <jstl.version>1.2</jstl.version>
         <spring.data>2.2.3.RELEASE</spring.data>
         <hibernate.version>5.4.10.Final</hibernate.version>
-        <mysqlconnector.version>8.0.18</mysqlconnector.version>
+        <mysqlconnector.version>8.0.28</mysqlconnector.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
